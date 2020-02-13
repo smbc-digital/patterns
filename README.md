@@ -7,8 +7,9 @@
 <br />
 
 <div align="center">
-  <img alt="Open Issues" src="https://github.com/smbc-digital/patterns?style=flat-square" />
-  <img alt="Stars" src="https://github.com/smbc-digital/patterns?style=flat-square" />
+  <img alt="Application version" src="https://img.shields.io/badge/version-1.0.0--alpha-blue.svg?style=flat-square" />
+  <img alt="Open Issues" src="https://img.shields.io/github/issues/smbc-digital/patterns?style=flat-square" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/smbc-digital/patterns?style=flat-square" />
   <img alt="Stability for application" src="https://img.shields.io/badge/stability-experimental-orange.svg?style=flat-square" />
 </div>
 
