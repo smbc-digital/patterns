@@ -14,10 +14,6 @@
 </div>
 
 <div align="center">
-  <h3>External Links <a href="https://github.com/smbc-digital">GitHub</a><span> | </span><a href="https://www.nuget.org/profiles/Stockport-Council">NuGet</a></h3>
-</div>
-
-<div align="center">
   <sub>Built with ❤︎ by <a href="https://www.stockport.gov.uk">Stockport Council</a> and <a href=""> contributors</a></sub>
 </div>
 
